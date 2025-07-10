@@ -1,4 +1,4 @@
 # myself-demo
-this is my first repository
+this is my first repository.
 <br>
-Author is Md Arman
+Author is Arman Siddique
